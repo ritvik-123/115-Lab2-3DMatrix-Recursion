@@ -1,0 +1,5 @@
+﻿  Lab2P1.cpp
+D:\My Work\MS in CS\1st Sem\DSA - 115\Programs\Project2\Project2\Lab2P1.cpp(72,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+Lab2P1.obj : error LNK2005: main already defined in Lab2P0.obj
+Lab2P3.obj : error LNK2005: main already defined in Lab2P0.obj
+D:\My Work\MS in CS\1st Sem\DSA - 115\Programs\Project2\x64\Debug\Project2.exe : fatal error LNK1169: one or more multiply defined symbols found
